@@ -1,0 +1,3 @@
+C:/Users/JS/CLionProjects/cube/cmake-build-release/CMakeFiles/cube.dir
+C:/Users/JS/CLionProjects/cube/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/JS/CLionProjects/cube/cmake-build-release/CMakeFiles/rebuild_cache.dir
